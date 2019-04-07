@@ -1,0 +1,17 @@
+.DS_Store
+
+/.idea
+/.vscode
+
+npm-debug.log
+yarn-error.log
+.phpunit.result.cache
+
+/application/node_modules
+/application/public/hot
+/application/public/storage
+/application/storage/*.key
+/application/vendor
+
+.env
+/data
