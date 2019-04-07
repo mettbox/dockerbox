@@ -4,7 +4,6 @@
 
 - [Docker](https://docs.docker.com/engine/installation)  
 - [Docker compose](https://docs.docker.com/compose/install/)  
-- [Composer](https://getcomposer.org/)  
 
 ## How to run
 
